@@ -1,0 +1,11 @@
+C:\Users\Osama\Desktop\programering\sista uppgft\uppgift6MedKlasser\uppgift6MedKlasser\bin\Debug\uppgift6MedKlasser.exe
+C:\Users\Osama\Desktop\programering\sista uppgft\uppgift6MedKlasser\uppgift6MedKlasser\bin\Debug\uppgift6MedKlasser.pdb
+C:\Users\Osama\Desktop\programering\sista uppgft\uppgift6MedKlasser\uppgift6MedKlasser\obj\Debug\uppgift6MedKlasser.exe
+C:\Users\Osama\Desktop\programering\sista uppgft\uppgift6MedKlasser\uppgift6MedKlasser\obj\Debug\uppgift6MedKlasser.pdb
+C:\Users\Osama\Desktop\programering\sista uppgft\uppgift6MedKlasser\uppgift6MedKlasser\obj\Debug\uppgift6MedKlasser.csprojResolveAssemblyReference.cache
+C:\Users\usama\Downloads\Compressed\4432931_808727_270928_1496022184\uppgift6MedKlasser\uppgift6MedKlasser\bin\Debug\uppgift6MedKlasser.exe
+C:\Users\usama\Downloads\Compressed\4432931_808727_270928_1496022184\uppgift6MedKlasser\uppgift6MedKlasser\bin\Debug\uppgift6MedKlasser.pdb
+C:\Users\usama\Downloads\Compressed\4432931_808727_270928_1496022184\uppgift6MedKlasser\uppgift6MedKlasser\obj\Debug\uppgift6MedKlasser.csprojAssemblyReference.cache
+C:\Users\usama\Downloads\Compressed\4432931_808727_270928_1496022184\uppgift6MedKlasser\uppgift6MedKlasser\obj\Debug\uppgift6MedKlasser.csproj.CoreCompileInputs.cache
+C:\Users\usama\Downloads\Compressed\4432931_808727_270928_1496022184\uppgift6MedKlasser\uppgift6MedKlasser\obj\Debug\uppgift6MedKlasser.exe
+C:\Users\usama\Downloads\Compressed\4432931_808727_270928_1496022184\uppgift6MedKlasser\uppgift6MedKlasser\obj\Debug\uppgift6MedKlasser.pdb
