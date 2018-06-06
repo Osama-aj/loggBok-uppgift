@@ -57,13 +57,21 @@ namespace uppgift6MedKlasser
                     switch (menyVal)
                     {
                         case 1:  // visa alla loggar 
-                            // Jag har försökt med två "foreach" och två "for-loop" och med bara en "for-loop" med jag bara har lyckats med den här metoden. 
-                            foreach (var item in loggBok)
+                                 // Jag har försökt med två "foreach" och två "for-loop" och med bara en "for-loop" med jag bara har lyckats med den här metoden. 
+                            if (loggBok.Count == 0)
                             {
-                                Console.WriteLine("\t" + item.tid + "\t" + item.titel + "\t" + item.meddelande + "\t" + item.MobilNummer);
-
+                                Console.WriteLine("\n\tÄr du seriös? Loggen är tom");
                             }
+                            else
+                            {
 
+
+                                foreach (var item in loggBok)
+                                {
+                                    Console.WriteLine("\t" + item.tid + "\t" + item.titel + "\t" + item.meddelande + "\t" + item.MobilNummer);
+
+                                }
+                            }
                             break;
 
                         case 2:
